@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "7562",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "7562::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7562-Debug-1c650b79a750e8a4d3c0.json",
+					"name" : "7562",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kimjaewoo/Desktop/C++/\uc54c\uace0\ub9ac\uc998 \uae30\ucd08 \uadf8\ub798\ud504/7562/cmake-build-debug",
+		"source" : "/Users/kimjaewoo/Desktop/C++/\uc54c\uace0\ub9ac\uc998 \uae30\ucd08 \uadf8\ub798\ud504/7562"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

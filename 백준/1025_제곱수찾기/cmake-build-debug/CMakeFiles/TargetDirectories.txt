@@ -1,0 +1,3 @@
+/Users/kimjaewoo/Desktop/C++/백준/1025_제곱수찾기/cmake-build-debug/CMakeFiles/1025_.dir
+/Users/kimjaewoo/Desktop/C++/백준/1025_제곱수찾기/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kimjaewoo/Desktop/C++/백준/1025_제곱수찾기/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/kimjaewoo/Desktop/C++/codeforces/189A/cmake-build-debug/CMakeFiles/189A.dir
+/Users/kimjaewoo/Desktop/C++/codeforces/189A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kimjaewoo/Desktop/C++/codeforces/189A/cmake-build-debug/CMakeFiles/rebuild_cache.dir

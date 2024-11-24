@@ -1,0 +1,3 @@
+/Users/kimjaewoo/Desktop/C++/백준/백준_입출력/10992/cmake-build-debug/CMakeFiles/10992.dir
+/Users/kimjaewoo/Desktop/C++/백준/백준_입출력/10992/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kimjaewoo/Desktop/C++/백준/백준_입출력/10992/cmake-build-debug/CMakeFiles/rebuild_cache.dir

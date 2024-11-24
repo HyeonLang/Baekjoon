@@ -1,0 +1,3 @@
+/Users/kimjaewoo/Desktop/C++/백준/2968_ 보드게임의왕/cmake-build-debug/CMakeFiles/2068__.dir
+/Users/kimjaewoo/Desktop/C++/백준/2968_ 보드게임의왕/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kimjaewoo/Desktop/C++/백준/2968_ 보드게임의왕/cmake-build-debug/CMakeFiles/rebuild_cache.dir
